@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "persian-text-utils"
+version = "1.0.0"
+description = "Lightweight Persian/Farsi text utilities"
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+
+[tool.setuptools]
+py-modules = ["persian_text_utils"]
