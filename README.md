@@ -1,5 +1,7 @@
 # persian-text-utils
 
+<p align="center"><img src="assets/readme-banner.svg" alt="Animated Persian Text Utils banner" width="100%"></p>
+
 Lightweight, dependency-free Persian (Farsi) text utilities for Python 3.8+.
 
 ## Features
